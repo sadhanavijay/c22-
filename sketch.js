@@ -40,7 +40,7 @@ function setup()
 function draw() 
 {
   rectMode(CENTER);
-  background("pink");
+  background("white");
   
  Engine.update(engine);
 
